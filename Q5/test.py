@@ -1,5 +1,5 @@
 from colorama import Fore
-from Q5_INSERTTEAMNUMBER import average_of_list
+from Q5_3 import average_of_list
 
 TEST_INPUT = [
     [],

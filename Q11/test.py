@@ -1,5 +1,5 @@
 from colorama import Fore
-from Q11_INSERTTEAMNUMBER import calc
+from Q11_3 import calc
 
 TEST_INPUT = [[5, 8, "+"], [5, 8, "-"], [1, 0, "*"], [100, 10, "/"], [5, 2, "/"]]
 TEST_OUTPUT = [13, -3, 0, 10, 2]

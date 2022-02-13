@@ -1,5 +1,5 @@
 from colorama import Fore
-from Q12_INSERTTEAMNUMBER import get_median
+from Q12_3 import get_median
 
 TEST_INPUT = [
     [1, 2, 3, 4, 5],

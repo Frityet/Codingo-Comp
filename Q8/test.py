@@ -1,5 +1,5 @@
 from colorama import Fore
-from Q8_INSERTTEAMNUMBER import morse_code_translator
+from Q8_3 import morse_code_translator
 
 TEST_INPUT = ["SOS", "Hello World", "The quick brown fox jumped over the lazy dog"]
 TEST_OUTPUT = [

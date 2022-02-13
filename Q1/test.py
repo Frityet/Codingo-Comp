@@ -1,5 +1,5 @@
 from colorama import Fore
-from Q1_INSERTTEAMNUMBER import sudoku_solver
+from Q1.Q1_3 import sudoku_solver
 
 TEST_INPUT = [
     [
